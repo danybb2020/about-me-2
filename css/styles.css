@@ -1,11 +1,15 @@
 h1 {
   color: black;
   font-weight: bold;
+  font-family: "Qahiri", sans-serif;
+  font-size: 100px;
 }
 
 h2 {
   color: darkgreen;
   font-weight: bold;
+
+  font-family: "Zen Tokyo Zoo", cursive;
 }
 h3 {
   color: gray;
